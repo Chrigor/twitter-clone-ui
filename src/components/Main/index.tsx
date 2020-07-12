@@ -19,7 +19,7 @@ const Main: React.FC = () => {
       {/* <ProfilePage /> */}
 
       <BottomMenu>
-        <HomeIcon />
+        <HomeIcon className="active"/>
         <SearchIcon />
         <BellIcon />
         <EmailIcon />
