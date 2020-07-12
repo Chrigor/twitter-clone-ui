@@ -18,7 +18,7 @@ const ProfilePage: React.FC = () => {
 
         <p>
           Developer at
-          <a href="#">Grupo IV2</a>
+          <a href="#"> Grupo IV2</a>
         </p>
 
         <ul>
